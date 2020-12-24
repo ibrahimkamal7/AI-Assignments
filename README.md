@@ -8,4 +8,4 @@ The directory contains some of the work I did for my AI class which includes the
 
 ### Note:
 
-All of the assignments are to be run using command line. Different command line options are implemented for each assignment. More information on the command line options can be found in the assignment instructions
+All of the assignments are to be run using command-line / terminal . Different command-line options are implemented for each assignment. More information on the command-line options can be found in the assignment instructions
