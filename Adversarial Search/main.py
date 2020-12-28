@@ -10,7 +10,7 @@ from game import *
 from human import *
 from agent import *
 
-'''The main class which carries out the game between two players'''
+'''The main class which carries out the game between two players. Remove the comments from this part to play the game'''
 # if __name__ == '__main__':
 #     arg1 = util.get_arg(1)
 #     arg2 = util.get_arg(2)
