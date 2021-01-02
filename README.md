@@ -3,7 +3,7 @@ The directory contains some of the work I did for my AI class which includes the
 * State and Action Representations
 * Uninformed Searches: BFS and DFS
 * Informed Searches: Algorithm A* (with an admissible heuristic)
-* Adversarual Search: Minimax Algorithm
+* Adversarial Search: Minimax Algorithm with alpha-beta pruning
 * Reinforcement Learning: Q-Learning and Q-Table
 
 ### Note:
