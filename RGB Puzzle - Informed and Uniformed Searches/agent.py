@@ -135,7 +135,7 @@ class Agent:
                 
         print(len(self.__states.keys()))
 
-    '''the search methods'''
+    '''the uninformed search methods'''
     
     def bfs(self,state):
         self._search(state, queue.Queue(), None)
@@ -143,6 +143,7 @@ class Agent:
     def dfs(self,state):
         self._search(state, queue.LifoQueue(), None)
     
+    '''the informed search method'''
     def a_star(self, state, heuristic):
         self._search(state, queue.PriorityQueue(), heuristic)
                 
